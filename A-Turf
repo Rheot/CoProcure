@@ -1,0 +1,35 @@
+{
+  "title": "Indoor & Outdoor Synthetic Turf",
+  "expiration": "09/16/2019",
+  "contract_number": "#082114-CTP",
+  "products & services":
+  { "Synthetic turf", "Athletic sport turf", "Fitness turf", "ShockPad systems", "Removal and recycling of synthetic turf surfaces", "12-year warranties for select synthetic turf systems" },
+  "files": [
+    {
+      "contract-forms": "https://www.sourcewell-mn.gov/sites/default/files/2018-09-19/Controlled%20Products%20Contract%20082114.pdf"
+    }.
+    {
+     "contract-pricing": "https://www.sourcewell-mn.gov/sites/default/files/2018-09-19/A-Turf%20NJPA%20Price%20List%201.9.18.xlsx"
+    }
+  ]
+  "vendor": {
+    "name": "A-Turf",
+    "contacts": [
+      {
+        "name": "Dakota Harp",
+        "phone": "800-562-4492 Ext 117",
+        "email": "dakota@cpturf.com"
+      },
+      {
+        "name": "Matt Riggs",
+        "phone": "800-562-4492 Ext 136",
+        "email": "mattriggs@sporturf.com"
+      },
+      {
+        "name": "Kristopher Schmitt",
+        "phone": "888-777-6910 Ext 217",
+        "email": "kris@aturf.com"
+      }
+    ]
+  }
+}
